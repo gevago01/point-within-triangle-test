@@ -10,15 +10,20 @@ A sample input file is provided (points.txt) that contains 2D points to check wh
    2. CMake 
    3. OpenCV 
 
-   
+## Install OpenCV
+
+```bash
+sudo apt-get install libopencv-dev python-opencv
+```
+
 ## How to run on Linux
 ```bash
-git clone https://github.com/gevago01/Agglomerative-Clustering.git
-cd Agglomerative-Clustering
+git clone https://github.com/gevago01/point-within-triangle-test.git
+cd point-within-triangle-test
 mkdir build
 cd build
 cmake ..
 make
-./Agglomerative
+./PointInTriangle
 ```
 
