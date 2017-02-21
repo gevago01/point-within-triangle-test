@@ -1,0 +1,3 @@
+/home/giannis/ClionProjects/PointInTriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giannis/ClionProjects/PointInTriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/giannis/ClionProjects/PointInTriangle/cmake-build-debug/CMakeFiles/PointInTriangle.dir
