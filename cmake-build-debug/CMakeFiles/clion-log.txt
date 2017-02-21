@@ -1,5 +1,0 @@
-/home/giannis/clion-2016.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/giannis/ClionProjects/PointInTriangle
--- OpenCV library was successfully found.
--- Configuring done
--- Generating done
--- Build files have been written to: /home/giannis/ClionProjects/PointInTriangle/cmake-build-debug
